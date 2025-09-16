@@ -1,0 +1,6 @@
+//This is the basic pf js   
+console.log("Hello World"); 
+var a = 10;
+var b = 20;
+var c = a + b;
+console.log(c);
